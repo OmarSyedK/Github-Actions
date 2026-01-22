@@ -1,4 +1,4 @@
-#Action
+# Github Action
 def add(a,b):
     return a + b
 
